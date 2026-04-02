@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Env files
+.env*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Project specific
+Given/
+extracted_texts/
+*.mp4
+*.mov
+*.webm
+berkut.mp4
+ornament copy.mp4
+rotating_dombra.mp4
+build_*.py
+build_*.sh
+build_*.js
+extract_*.sh
+fix_*.sh
+organize_images.sh
+copy_memorial_images.sh
+comprehensive_text_check.py
+final_page_simulation_test.py
+test_*.py
+test_*.html
+write_missing_descriptions.py
+*.md
+!README.md
+
+.cursor/
